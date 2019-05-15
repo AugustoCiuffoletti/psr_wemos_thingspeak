@@ -1,0 +1,4 @@
+#define CHANNEL_KEY "XXXXCCCCVVVVBBBB"
+#define CHANNEL_NUMBER NNNNN
+#define MYSSID "yourEssid"
+#define MYPASSWD "yourPSK"
